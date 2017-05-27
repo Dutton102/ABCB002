@@ -226,3 +226,50 @@
 22:43:00  [main] 	Deinitializing Modules
 22:43:00  [main] 	Deinitializing Control Panel
 
+23:02:36  [main] 	Initializing Control Panel
+23:02:36  [main] 	Windows Version:  Pro  64-bit
+23:02:36  [main] 	XAMPP Version: 5.6.30
+23:02:36  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+23:02:36  [main] 	You are not running with administrator rights! This will work for
+23:02:36  [main] 	most application stuff but whenever you do something with services
+23:02:36  [main] 	there will be a security dialogue or things will break! So think 
+23:02:36  [main] 	about running this application with administrator rights!
+23:02:36  [main] 	XAMPP Installation Directory: "c:\abcb002\"
+23:02:36  [main] 	Checking for prerequisites
+23:02:36  [main] 	All prerequisites found
+23:02:36  [main] 	Initializing Modules
+23:02:36  [main] 	The Mercury module is disabled
+23:02:36  [main] 	The Tomcat module is disabled
+23:02:36  [main] 	Starting Check-Timer
+23:02:36  [main] 	Control Panel Ready
+23:02:41  [main] 	Deinitializing Modules
+23:02:41  [main] 	Deinitializing Control Panel
+
+23:00:46  [main] 	Initializing Control Panel
+23:00:46  [main] 	Windows Version:  Pro  64-bit
+23:00:46  [main] 	XAMPP Version: 5.6.30
+23:00:46  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+23:00:46  [main] 	You are not running with administrator rights! This will work for
+23:00:46  [main] 	most application stuff but whenever you do something with services
+23:00:46  [main] 	there will be a security dialogue or things will break! So think 
+23:00:46  [main] 	about running this application with administrator rights!
+23:00:46  [main] 	XAMPP Installation Directory: "c:\abcb002\"
+23:00:46  [main] 	Checking for prerequisites
+23:00:46  [main] 	All prerequisites found
+23:00:46  [main] 	Initializing Modules
+23:00:46  [main] 	The Mercury module is disabled
+23:00:46  [main] 	The Tomcat module is disabled
+23:00:46  [main] 	Starting Check-Timer
+23:00:46  [main] 	Control Panel Ready
+23:00:47  [Apache] 	Attempting to start Apache app...
+23:00:47  [Apache] 	Status change detected: running
+23:00:49  [mysql] 	Attempting to start MySQL app...
+23:00:49  [mysql] 	Status change detected: running
+23:02:32  [mysql] 	Attempting to stop MySQL app...
+23:02:32  [mysql] 	Status change detected: stopped
+23:02:33  [Apache] 	Attempting to stop Apache (PID: 860)
+23:02:33  [Apache] 	Attempting to stop Apache (PID: 12192)
+23:02:33  [Apache] 	Status change detected: stopped
+23:02:42  [main] 	Deinitializing Modules
+23:02:42  [main] 	Deinitializing Control Panel
+
