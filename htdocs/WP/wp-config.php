@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'WP');
+define('DB_NAME', 'wp');
 
 /** MySQL database username */
 define('DB_USER', 'root');
@@ -46,15 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
-
+define('AUTH_KEY',         'LWG06QbyO!yOGlJV#4zzDc&*lhZ)HR19dhAF9!O71C5ueJx71dymb@^pFXieAcUj');
+define('SECURE_AUTH_KEY',  'n9YgLPT81hU#C@2@xqOiGCwxLesVjM)yNvlo528D4ET!NW@C1MXLPL*Ng2E%KO&%');
+define('LOGGED_IN_KEY',    '%BErBa3db8sjdX(JP9VbB9eAV3EUs3VRhy^6r8VP@Bo9&nHOA8NRqn8AByoJLMAp');
+define('NONCE_KEY',        'O6p#DS0%gt7UOFQPcAbA^lLNRmsoI4ia&UJ(AghgqhU9y*HyBHJa%*^Z%FrOtMot');
+define('AUTH_SALT',        'OokAR!IpdDF8tloXW0lDhXVfa5L2rkL7bAtQxkUUOM#tOQOfi9ceS7RKiXBwhMXs');
+define('SECURE_AUTH_SALT', 'sFH(&d0Zh7UqvoCq1Ze)J5b4*fqCW0u33@qRa^b7xlJaS2rmdCCEzLudn)*utF%N');
+define('LOGGED_IN_SALT',   'YiFYK5B*5wZiVFQ&cx!TOZ!EiEe&KKiFf^E!oq7S@#n1YUI@yfJr2xC#20#&*vZl');
+define('NONCE_SALT',       'MoSDS%JMx&zgghlJP#LNCxJ#HOB9VPLubo*rWW(1Hn)o0WQTpdx3X*&IKFOYEW1e');
 /**#@-*/
 
 /**
@@ -63,7 +62,7 @@ define('NONCE_SALT',       'put your unique phrase here');
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'wp_';
+$table_prefix  = 'clk_9a11281a40_wp_';
 
 /**
  * For developers: WordPress debugging mode.
@@ -88,14 +87,7 @@ if ( !defined('ABSPATH') )
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
 
-/** Setup Multisite */
-define('WP_DEBUG', false);
+define( 'WP_ALLOW_MULTISITE', true );
 
-define('WP_ALLOW_MULTISITE', true);
-
-define('MULTISITE', true);
-define('SUBDOMAIN_INSTALL', false);
-define('DOMAIN_CURRENT_SITE', 'localhost');
-define('PATH_CURRENT_SITE', '/');
-define('SITE_ID_CURRENT_SITE', 1);
-define('BLOG_ID_CURRENT_SITE', 1);
+define ('FS_METHOD', 'direct');
+?>

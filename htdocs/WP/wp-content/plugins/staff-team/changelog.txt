@@ -1,0 +1,44 @@
+5.0.11
+* Added: Overview page   
+* Removed: Featured Plugins, Featured Themes pages   
+
+5.0.10
+* Fixed: Bug on SCMessClass   
+* Changed: Reset button style   
+* Fixed: Some style conflicts   
+* Added: New Featured Plugins    
+
+5.0.9
+* Added: Option to use Custom URL instead of the standard profile page of a staff member   
+* Added: Version to css and js files    
+
+5.0.8
+* Added: Social Network URLs for every contact    
+* Changed: Font Awesome version    
+* Added: New featured plugins: Ecommerce WD, Mailchimp WD   
+
+5.0.7
+* Added: New option: Image style (Cover / Contain)   
+* Added: New option: Post content (Exerpt / Full)   
+
+5.0.6
+* Fixed: Bug on upgrading from free to pro   
+
+5.0.5
+* Added: Custom CSS option   
+* Fixed: Bug on database prefix         
+* Fixed: Some style issues    
+
+5.0.4
+* Fixed: Bug on categories display         
+* Fixed: Bug on Team Ordering          
+
+5.0.3
+* Added: A new option "Slug" in Global options to customize permalinks of single-contact pages 
+* Fixed: Bug on Language options   
+
+5.0.2
+* Fixed: Bug on placing two shortcodes with the same view on the same page   
+
+5.0.1
+* Changed: Preserve breaks and text formatting on descriptions   

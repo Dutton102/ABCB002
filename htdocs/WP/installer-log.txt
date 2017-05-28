@@ -1,0 +1,166 @@
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* VERSION: 1.2.8
+* STEP-1 START @ 10:27:59
+* NOTICE: Do NOT post this data to public sites or forums
+********************************************************************************
+PHP VERSION:	5.6.30 | SAPI: apache2handler
+PHP TIME LIMIT:	[0] time limit restriction disabled
+PHP MEMORY:	2048M | SUHOSIN: disabled
+SERVER:		Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30
+DOC ROOT:	C:/ABCB002/htdocs/WP
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	http://localhost/wp/installer.php
+--------------------------------------
+ARCHIVE EXTRACTION
+--------------------------------------
+NAME:	20170527_yodoo_eb98da19aa4044ae6335170527214410_archive.zip
+SIZE:	103.87MB
+ZIP:	Enabled (ZipArchive Support)
+
+>>> START EXTRACTION:
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4964
+    [filename] => C:\ABCB002\htdocs\WP\20170527_yodoo_eb98da19aa4044ae6335170527214410_archive.zip
+    [comment] => 
+)
+File timestamp is 'Current' mode: 2017-05-27 22:28:32
+<<< EXTRACTION COMPLETE: true
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to *.170527222832.orig
+- Reset of .htaccess/web.config files
+
+STEP-1 COMPLETE @ 10:28:32 - RUNTIME: 32.2433 sec.
+
+INSTALLER ERROR:
+DATABASE CONNECTION FAILED!
+MySQL server has gone away
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-2 START @ 11:01:38
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+--------------------------------------
+DATABASE ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.1.21 -- Build Server: 5.7.17
+FILE SIZE:	database.sql (7.38MB) - installer-data.sql (7.38MB)
+TIMEOUT:	5000
+MAXPACK:	1048576
+SQLMODE:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[C:/ABCB002/htdocs/WP/installer-data.sql]
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+ERRORS FOUND:	0
+TABLES DROPPED:	19
+QUERIES RAN:	1826
+
+clk_9a11281a40_wp_commentmeta: (0)
+clk_9a11281a40_wp_comments: (0)
+clk_9a11281a40_wp_duplicator_packages: (1)
+clk_9a11281a40_wp_huge_itportfolio_images: (11)
+clk_9a11281a40_wp_huge_itportfolio_portfolios: (2)
+clk_9a11281a40_wp_links: (0)
+clk_9a11281a40_wp_options: (253)
+clk_9a11281a40_wp_postmeta: (913)
+clk_9a11281a40_wp_posts: (567)
+clk_9a11281a40_wp_smuzform_entry: (1)
+clk_9a11281a40_wp_smuzform_entry_data: (6)
+clk_9a11281a40_wp_term_relationships: (8)
+clk_9a11281a40_wp_term_taxonomy: (3)
+clk_9a11281a40_wp_termmeta: (0)
+clk_9a11281a40_wp_terms: (3)
+clk_9a11281a40_wp_usermeta: (37)
+clk_9a11281a40_wp_users: (2)
+
+Removed '52' cache/transient rows
+
+CREATE/INSTALL RUNTIME: 3.8416 sec.
+STEP-2 COMPLETE @ 11:01:42 - RUNTIME: 4.0241 sec.
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-3 START @ 11:02:32
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	utf8
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+clk_9a11281a40_wp_commentmeta^ (0)
+clk_9a11281a40_wp_comments^ (0)
+clk_9a11281a40_wp_duplicator_packages^ (0)
+clk_9a11281a40_wp_huge_itportfolio_images~ (11)
+clk_9a11281a40_wp_huge_itportfolio_portfolios~ (2)
+clk_9a11281a40_wp_links^ (0)
+clk_9a11281a40_wp_options~ (200)
+clk_9a11281a40_wp_postmeta~ (913)
+clk_9a11281a40_wp_posts~ (567)
+clk_9a11281a40_wp_smuzform_entry~ (1)
+clk_9a11281a40_wp_smuzform_entry_data~ (6)
+clk_9a11281a40_wp_term_relationships~ (8)
+clk_9a11281a40_wp_term_taxonomy~ (3)
+clk_9a11281a40_wp_termmeta^ (0)
+clk_9a11281a40_wp_terms~ (3)
+clk_9a11281a40_wp_usermeta~ (37)
+clk_9a11281a40_wp_users~ (2)
+--------------------------------------
+Search1:	'http://yodoo.dk' 
+Change1:	'http://localhost/wp' 
+Search2:	'/var/www/yodoo.dk/public_html' 
+Change2:	'C:/ABCB002/htdocs/WP' 
+Search3:	'http:\/\/yodoo.dk' 
+Change3:	'http:\/\/localhost\/wp' 
+Search4:	'\/var\/www\/yodoo.dk\/public_html' 
+Change4:	'C:\/ABCB002\/htdocs\/WP' 
+Search5:	'%2Fvar%2Fwww%2Fyodoo.dk%2Fpublic_html%2F' 
+Change5:	'C%3A%2FABCB002%2Fhtdocs%2FWP%2F' 
+Search6:	'http%3A%2F%2Fyodoo.dk' 
+Change6:	'http%3A%2F%2Flocalhost%2Fwp' 
+Search7:	'\var\www\yodoo.dk\public_html' 
+Change7:	'C:/ABCB002/htdocs/WP' 
+SCANNED:	Tables:17 	|	 Rows:1753 	|	 Cells:17924 
+UPDATED:	Tables:3 	|	 Rows:1032 	|	 Cells:1399 
+ERRORS:		0 
+RUNTIME:	1.833100 sec
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG: /wp-config.php' (if present)
+
+WEB SERVER CONFIGURATION FILE BASIC SETUP:
+- Preparing .htaccess file with basic setup.
+Basic .htaccess file edit complete.  If using IIS web.config this process will need to be done manually.
+
+====================================
+GENERAL UPDATES & CLEANUP:
+====================================
+
+- Created directory wp-snapshots
+- Created file wp-snapshots/index.php
+
+====================================
+NOTICES
+====================================
+
+No Notices Found
+
+
+STEP 3 COMPLETE @ 11:02:33 - RUNTIME: 1.8643 sec.
+
+
