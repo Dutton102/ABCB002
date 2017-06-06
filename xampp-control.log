@@ -335,3 +335,305 @@
 21:40:07  [main] 	Deinitializing Modules
 21:40:07  [main] 	Deinitializing Control Panel
 
+21:40:04  [main] 	Initializing Control Panel
+21:40:05  [main] 	Windows Version:  Pro  64-bit
+21:40:05  [main] 	XAMPP Version: 5.6.30
+21:40:05  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+21:40:05  [main] 	You are not running with administrator rights! This will work for
+21:40:05  [main] 	most application stuff but whenever you do something with services
+21:40:05  [main] 	there will be a security dialogue or things will break! So think 
+21:40:05  [main] 	about running this application with administrator rights!
+21:40:05  [main] 	XAMPP Installation Directory: "c:\abcb002\"
+21:40:05  [main] 	Checking for prerequisites
+21:40:05  [main] 	All prerequisites found
+21:40:05  [main] 	Initializing Modules
+21:40:05  [Apache] 	Problem detected!
+21:40:05  [Apache] 	Port 80 in use by ""c:\wamp64\bin\apache\apache2.4.23\bin\httpd.exe" -k runservice" with PID 11216!
+21:40:05  [Apache] 	Apache WILL NOT start without the configured ports free!
+21:40:05  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+21:40:05  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+21:40:05  [main] 	The Mercury module is disabled
+21:40:05  [main] 	The Tomcat module is disabled
+21:40:05  [main] 	Starting Check-Timer
+21:40:05  [main] 	Control Panel Ready
+21:40:06  [Apache] 	Attempting to start Apache app...
+21:40:06  [Apache] 	Status change detected: running
+21:40:08  [mysql] 	Attempting to start MySQL app...
+21:40:08  [mysql] 	Status change detected: running
+21:44:19  [mysql] 	Attempting to stop MySQL app...
+21:44:19  [mysql] 	Status change detected: stopped
+21:44:19  [Apache] 	Attempting to stop Apache (PID: 4492)
+21:44:19  [Apache] 	Attempting to stop Apache (PID: 9284)
+21:44:20  [Apache] 	Status change detected: stopped
+23:19:31  [main] 	Deinitializing Modules
+23:19:31  [main] 	Deinitializing Control Panel
+
+21:39:11  [main] 	Initializing Control Panel
+21:39:11  [main] 	Windows Version:  Pro  64-bit
+21:39:11  [main] 	XAMPP Version: 5.6.30
+21:39:11  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+21:39:11  [main] 	You are not running with administrator rights! This will work for
+21:39:11  [main] 	most application stuff but whenever you do something with services
+21:39:11  [main] 	there will be a security dialogue or things will break! So think 
+21:39:11  [main] 	about running this application with administrator rights!
+21:39:11  [main] 	XAMPP Installation Directory: "c:\abcb002\"
+21:39:11  [main] 	Checking for prerequisites
+21:39:11  [main] 	All prerequisites found
+21:39:11  [main] 	Initializing Modules
+21:39:11  [main] 	The Mercury module is disabled
+21:39:11  [main] 	The Tomcat module is disabled
+21:39:11  [main] 	Starting Check-Timer
+21:39:11  [main] 	Control Panel Ready
+21:39:27  [main] 	Deinitializing Modules
+21:39:27  [main] 	Deinitializing Control Panel
+
+19:39:44  [main] 	Initializing Control Panel
+19:39:44  [main] 	Windows Version:  Pro  64-bit
+19:39:44  [main] 	XAMPP Version: 5.6.30
+19:39:44  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+19:39:44  [main] 	You are not running with administrator rights! This will work for
+19:39:44  [main] 	most application stuff but whenever you do something with services
+19:39:44  [main] 	there will be a security dialogue or things will break! So think 
+19:39:44  [main] 	about running this application with administrator rights!
+19:39:44  [main] 	XAMPP Installation Directory: "c:\abcb002\"
+19:39:44  [main] 	Checking for prerequisites
+19:39:44  [main] 	All prerequisites found
+19:39:44  [main] 	Initializing Modules
+19:39:44  [Apache] 	Problem detected!
+19:39:44  [Apache] 	Port 80 in use by ""c:\wamp64\bin\apache\apache2.4.23\bin\httpd.exe" -k runservice" with PID 9612!
+19:39:44  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:39:44  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:39:44  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:39:44  [mysql] 	Problem detected!
+19:39:44  [mysql] 	Port 3306 in use by "c:\wamp64\bin\mysql\mysql5.7.14\bin\mysqld.exe wampmysqld64"!
+19:39:44  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:39:44  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:39:44  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:39:44  [main] 	The Mercury module is disabled
+19:39:44  [main] 	The Tomcat module is disabled
+19:39:44  [main] 	Starting Check-Timer
+19:39:44  [main] 	Control Panel Ready
+19:39:46  [Apache] 	Problem detected!
+19:39:46  [Apache] 	Port 80 in use by ""c:\wamp64\bin\apache\apache2.4.23\bin\httpd.exe" -k runservice" with PID 9612!
+19:39:46  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:39:46  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:39:46  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:39:46  [Apache] 	Attempting to start Apache app...
+19:39:46  [Apache] 	Status change detected: running
+19:39:46  [mysql] 	Problem detected!
+19:39:46  [mysql] 	Port 3306 in use by "c:\wamp64\bin\mysql\mysql5.7.14\bin\mysqld.exe wampmysqld64"!
+19:39:46  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:39:46  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:39:46  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:39:46  [mysql] 	Attempting to start MySQL app...
+19:39:47  [Apache] 	Status change detected: stopped
+19:39:47  [Apache] 	Error: Apache shutdown unexpectedly.
+19:39:47  [Apache] 	This may be due to a blocked port, missing dependencies, 
+19:39:47  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+19:39:47  [Apache] 	Press the Logs button to view error logs and check
+19:39:47  [Apache] 	the Windows Event Viewer for more clues
+19:39:47  [Apache] 	If you need more help, copy and post this
+19:39:47  [Apache] 	entire log window on the forums
+19:39:47  [mysql] 	Status change detected: running
+19:39:50  [Apache] 	Problem detected!
+19:39:50  [Apache] 	Port 80 in use by ""c:\wamp64\bin\apache\apache2.4.23\bin\httpd.exe" -k runservice" with PID 9612!
+19:39:50  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:39:50  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:39:50  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:39:50  [Apache] 	Attempting to start Apache app...
+19:39:51  [mysql] 	Status change detected: stopped
+19:39:51  [mysql] 	Error: MySQL shutdown unexpectedly.
+19:39:51  [mysql] 	This may be due to a blocked port, missing dependencies, 
+19:39:51  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+19:39:51  [mysql] 	Press the Logs button to view error logs and check
+19:39:51  [mysql] 	the Windows Event Viewer for more clues
+19:39:51  [mysql] 	If you need more help, copy and post this
+19:39:51  [mysql] 	entire log window on the forums
+19:39:55  [Apache] 	Problem detected!
+19:39:55  [Apache] 	Port 80 in use by ""c:\wamp64\bin\apache\apache2.4.23\bin\httpd.exe" -k runservice" with PID 9612!
+19:39:55  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:39:55  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:39:55  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:39:55  [Apache] 	Attempting to start Apache app...
+19:39:57  [main] 	Deinitializing Modules
+19:39:57  [main] 	Deinitializing Control Panel
+
+19:39:58  [main] 	Initializing Control Panel
+19:39:58  [main] 	Windows Version:  Pro  64-bit
+19:39:58  [main] 	XAMPP Version: 5.6.30
+19:39:58  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+19:39:58  [main] 	You are not running with administrator rights! This will work for
+19:39:58  [main] 	most application stuff but whenever you do something with services
+19:39:58  [main] 	there will be a security dialogue or things will break! So think 
+19:39:58  [main] 	about running this application with administrator rights!
+19:39:58  [main] 	XAMPP Installation Directory: "c:\abcb002\"
+19:39:58  [main] 	Checking for prerequisites
+19:39:58  [main] 	All prerequisites found
+19:39:58  [main] 	Initializing Modules
+19:39:58  [Apache] 	Problem detected!
+19:39:58  [Apache] 	Port 80 in use by ""c:\wamp64\bin\apache\apache2.4.23\bin\httpd.exe" -k runservice" with PID 9612!
+19:39:58  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:39:58  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:39:58  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:39:58  [mysql] 	Problem detected!
+19:39:58  [mysql] 	Port 3306 in use by "c:\wamp64\bin\mysql\mysql5.7.14\bin\mysqld.exe wampmysqld64"!
+19:39:58  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:39:58  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:39:58  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:39:58  [main] 	The Mercury module is disabled
+19:39:58  [main] 	The Tomcat module is disabled
+19:39:58  [main] 	Starting Check-Timer
+19:39:58  [main] 	Control Panel Ready
+19:40:01  [Apache] 	Problem detected!
+19:40:01  [Apache] 	Port 80 in use by ""c:\wamp64\bin\apache\apache2.4.23\bin\httpd.exe" -k runservice" with PID 9612!
+19:40:01  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:40:01  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:40:01  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:40:01  [Apache] 	Attempting to start Apache app...
+19:40:20  [main] 	Deinitializing Modules
+19:40:20  [main] 	Deinitializing Control Panel
+
+19:44:32  [main] 	Initializing Control Panel
+19:44:32  [main] 	Windows Version:  Pro  64-bit
+19:44:32  [main] 	XAMPP Version: 5.6.30
+19:44:32  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+19:44:32  [main] 	You are not running with administrator rights! This will work for
+19:44:32  [main] 	most application stuff but whenever you do something with services
+19:44:32  [main] 	there will be a security dialogue or things will break! So think 
+19:44:32  [main] 	about running this application with administrator rights!
+19:44:32  [main] 	XAMPP Installation Directory: "c:\abcb002\"
+19:44:32  [main] 	Checking for prerequisites
+19:44:32  [main] 	All prerequisites found
+19:44:32  [main] 	Initializing Modules
+19:44:32  [Apache] 	Problem detected!
+19:44:32  [Apache] 	Port 80 in use by ""c:\wamp64\bin\apache\apache2.4.23\bin\httpd.exe" -k runservice" with PID 9612!
+19:44:32  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:44:32  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:44:32  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:44:32  [mysql] 	Problem detected!
+19:44:32  [mysql] 	Port 3306 in use by "c:\wamp64\bin\mysql\mysql5.7.14\bin\mysqld.exe wampmysqld64"!
+19:44:32  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:44:32  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:44:32  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:44:32  [main] 	The Mercury module is disabled
+19:44:32  [main] 	The Tomcat module is disabled
+19:44:32  [main] 	Starting Check-Timer
+19:44:32  [main] 	Control Panel Ready
+19:44:45  [Apache] 	Problem detected!
+19:44:45  [Apache] 	Port 80 in use by ""c:\wamp64\bin\apache\apache2.4.23\bin\httpd.exe" -k runservice" with PID 9612!
+19:44:45  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:44:45  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:44:45  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:44:45  [Apache] 	Attempting to start Apache app...
+19:44:48  [main] 	Deinitializing Modules
+19:44:48  [main] 	Deinitializing Control Panel
+
+19:40:33  [main] 	Initializing Control Panel
+19:40:33  [main] 	Windows Version:  Pro  64-bit
+19:40:33  [main] 	XAMPP Version: 5.6.30
+19:40:33  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+19:40:33  [main] 	You are not running with administrator rights! This will work for
+19:40:33  [main] 	most application stuff but whenever you do something with services
+19:40:33  [main] 	there will be a security dialogue or things will break! So think 
+19:40:33  [main] 	about running this application with administrator rights!
+19:40:33  [main] 	XAMPP Installation Directory: "c:\abcb002\"
+19:40:33  [main] 	Checking for prerequisites
+19:40:33  [main] 	All prerequisites found
+19:40:33  [main] 	Initializing Modules
+19:40:33  [Apache] 	Problem detected!
+19:40:33  [Apache] 	Port 80 in use by ""c:\wamp64\bin\apache\apache2.4.23\bin\httpd.exe" -k runservice" with PID 9612!
+19:40:33  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:40:33  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:40:33  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:40:33  [mysql] 	Problem detected!
+19:40:33  [mysql] 	Port 3306 in use by "c:\wamp64\bin\mysql\mysql5.7.14\bin\mysqld.exe wampmysqld64"!
+19:40:33  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:40:33  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:40:33  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:40:33  [main] 	The Mercury module is disabled
+19:40:33  [main] 	The Tomcat module is disabled
+19:40:33  [main] 	Starting Check-Timer
+19:40:33  [main] 	Control Panel Ready
+19:40:34  [Apache] 	Problem detected!
+19:40:34  [Apache] 	Port 80 in use by ""c:\wamp64\bin\apache\apache2.4.23\bin\httpd.exe" -k runservice" with PID 9612!
+19:40:34  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:40:34  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:40:34  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:40:34  [Apache] 	Attempting to start Apache app...
+19:44:45  [Apache] 	Status change detected: running
+19:44:45  [Apache] 	Status change detected: stopped
+19:44:45  [Apache] 	Error: Apache shutdown unexpectedly.
+19:44:45  [Apache] 	This may be due to a blocked port, missing dependencies, 
+19:44:45  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+19:44:45  [Apache] 	Press the Logs button to view error logs and check
+19:44:45  [Apache] 	the Windows Event Viewer for more clues
+19:44:45  [Apache] 	If you need more help, copy and post this
+19:44:45  [Apache] 	entire log window on the forums
+19:44:49  [main] 	Deinitializing Modules
+19:44:49  [main] 	Deinitializing Control Panel
+
+21:49:17  [main] 	Initializing Control Panel
+21:49:17  [main] 	Windows Version:  Pro  64-bit
+21:49:17  [main] 	XAMPP Version: 5.6.30
+21:49:17  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+21:49:17  [main] 	You are not running with administrator rights! This will work for
+21:49:17  [main] 	most application stuff but whenever you do something with services
+21:49:17  [main] 	there will be a security dialogue or things will break! So think 
+21:49:17  [main] 	about running this application with administrator rights!
+21:49:17  [main] 	XAMPP Installation Directory: "c:\abcb002\"
+21:49:17  [main] 	Checking for prerequisites
+21:49:17  [main] 	All prerequisites found
+21:49:17  [main] 	Initializing Modules
+21:49:17  [main] 	The Mercury module is disabled
+21:49:17  [main] 	The Tomcat module is disabled
+21:49:17  [main] 	Starting Check-Timer
+21:49:17  [main] 	Control Panel Ready
+21:49:18  [Apache] 	Attempting to start Apache app...
+21:49:18  [Apache] 	Status change detected: running
+21:49:20  [mysql] 	Attempting to start MySQL app...
+21:49:21  [mysql] 	Status change detected: running
+21:50:50  [mysql] 	Attempting to stop MySQL app...
+21:50:50  [mysql] 	Status change detected: stopped
+21:50:51  [Apache] 	Attempting to stop Apache (PID: 11400)
+21:50:51  [Apache] 	Attempting to stop Apache (PID: 3448)
+21:50:51  [Apache] 	Status change detected: stopped
+21:52:21  [Apache] 	Attempting to start Apache app...
+21:52:22  [Apache] 	Status change detected: running
+21:52:23  [mysql] 	Attempting to start MySQL app...
+21:52:23  [mysql] 	Status change detected: running
+01:24:28  [Apache] 	Attempting to stop Apache (PID: 6016)
+01:24:28  [Apache] 	Attempting to stop Apache (PID: 5328)
+01:24:28  [Apache] 	Status change detected: stopped
+01:24:29  [mysql] 	Attempting to stop MySQL app...
+01:24:29  [mysql] 	Status change detected: stopped
+01:24:39  [main] 	Deinitializing Modules
+01:24:39  [main] 	Deinitializing Control Panel
+
+18:12:09  [main] 	Initializing Control Panel
+18:12:09  [main] 	Windows Version:  Pro  64-bit
+18:12:09  [main] 	XAMPP Version: 5.6.30
+18:12:09  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+18:12:09  [main] 	You are not running with administrator rights! This will work for
+18:12:09  [main] 	most application stuff but whenever you do something with services
+18:12:09  [main] 	there will be a security dialogue or things will break! So think 
+18:12:09  [main] 	about running this application with administrator rights!
+18:12:09  [main] 	XAMPP Installation Directory: "c:\abcb002\"
+18:12:09  [main] 	Checking for prerequisites
+18:12:10  [main] 	All prerequisites found
+18:12:10  [main] 	Initializing Modules
+18:12:10  [main] 	The Mercury module is disabled
+18:12:10  [main] 	The Tomcat module is disabled
+18:12:10  [main] 	Starting Check-Timer
+18:12:10  [main] 	Control Panel Ready
+18:12:11  [Apache] 	Attempting to start Apache app...
+18:12:12  [Apache] 	Status change detected: running
+18:12:13  [mysql] 	Attempting to start MySQL app...
+18:12:14  [mysql] 	Status change detected: running
+20:34:52  [mysql] 	Attempting to stop MySQL app...
+20:34:52  [mysql] 	Status change detected: stopped
+20:34:53  [Apache] 	Attempting to stop Apache (PID: 13000)
+20:34:53  [Apache] 	Attempting to stop Apache (PID: 12280)
+20:34:53  [Apache] 	Status change detected: stopped
+20:35:00  [main] 	Deinitializing Modules
+20:35:00  [main] 	Deinitializing Control Panel
+
