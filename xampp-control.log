@@ -637,3 +637,31 @@
 20:35:00  [main] 	Deinitializing Modules
 20:35:00  [main] 	Deinitializing Control Panel
 
+23:30:15  [main] 	Initializing Control Panel
+23:30:15  [main] 	Windows Version:  Pro  64-bit
+23:30:15  [main] 	XAMPP Version: 5.6.30
+23:30:15  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+23:30:15  [main] 	You are not running with administrator rights! This will work for
+23:30:15  [main] 	most application stuff but whenever you do something with services
+23:30:15  [main] 	there will be a security dialogue or things will break! So think 
+23:30:15  [main] 	about running this application with administrator rights!
+23:30:15  [main] 	XAMPP Installation Directory: "c:\abcb002\"
+23:30:15  [main] 	Checking for prerequisites
+23:30:16  [main] 	All prerequisites found
+23:30:16  [main] 	Initializing Modules
+23:30:16  [main] 	The Mercury module is disabled
+23:30:16  [main] 	The Tomcat module is disabled
+23:30:16  [main] 	Starting Check-Timer
+23:30:16  [main] 	Control Panel Ready
+23:30:17  [Apache] 	Attempting to start Apache app...
+23:30:18  [Apache] 	Status change detected: running
+23:30:19  [mysql] 	Attempting to start MySQL app...
+23:30:20  [mysql] 	Status change detected: running
+00:07:03  [mysql] 	Attempting to stop MySQL app...
+00:07:04  [mysql] 	Status change detected: stopped
+00:07:04  [Apache] 	Attempting to stop Apache (PID: 4476)
+00:07:04  [Apache] 	Attempting to stop Apache (PID: 10540)
+00:07:04  [Apache] 	Status change detected: stopped
+00:07:18  [main] 	Deinitializing Modules
+00:07:18  [main] 	Deinitializing Control Panel
+
