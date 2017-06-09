@@ -231,3 +231,13 @@
 [Fri Jun 09 07:17:27.803290 2017] [ssl:warn] [pid 5800:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Fri Jun 09 07:17:27.821840 2017] [mpm_winnt:notice] [pid 5800:tid 584] AH00354: Child: Starting 150 worker threads.
 [Fri Jun 09 08:34:53.347947 2017] [:error] [pid 5800:tid 1860] [client ::1:61009] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\\ABCB002\\htdocs\\WP\\wp-content\\plugins\\duplicator\\ctrls\\ctrl.tools.php on line 94, referer: http://localhost/wp/wp-admin/admin.php?page=duplicator-tools&tab=cleanup&_wpnonce=1889efaaa0
+[Fri Jun 09 09:08:22.695264 2017] [ssl:warn] [pid 4864:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 09 09:08:22.715594 2017] [core:warn] [pid 4864:tid 604] AH00098: pid file C:/ABCB002/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jun 09 09:08:22.762219 2017] [ssl:warn] [pid 4864:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 09 09:08:22.780267 2017] [mpm_winnt:notice] [pid 4864:tid 604] AH00455: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 configured -- resuming normal operations
+[Fri Jun 09 09:08:22.780267 2017] [mpm_winnt:notice] [pid 4864:tid 604] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri Jun 09 09:08:22.780267 2017] [core:notice] [pid 4864:tid 604] AH00094: Command line: 'c:\\abcb002\\apache\\bin\\httpd.exe -d C:/ABCB002/apache'
+[Fri Jun 09 09:08:22.781270 2017] [mpm_winnt:notice] [pid 4864:tid 604] AH00418: Parent: Created child process 11992
+[Fri Jun 09 09:08:23.052690 2017] [ssl:warn] [pid 11992:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 09 09:08:23.116888 2017] [ssl:warn] [pid 11992:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 09 09:08:23.135939 2017] [mpm_winnt:notice] [pid 11992:tid 616] AH00354: Child: Starting 150 worker threads.
