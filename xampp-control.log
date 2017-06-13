@@ -793,3 +793,81 @@
 16:34:18  [main] 	Deinitializing Modules
 16:34:18  [main] 	Deinitializing Control Panel
 
+13:05:37  [main] 	Initializing Control Panel
+13:05:37  [main] 	Windows Version:  Pro  64-bit
+13:05:37  [main] 	XAMPP Version: 5.6.30
+13:05:37  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+13:05:37  [main] 	You are not running with administrator rights! This will work for
+13:05:37  [main] 	most application stuff but whenever you do something with services
+13:05:37  [main] 	there will be a security dialogue or things will break! So think 
+13:05:37  [main] 	about running this application with administrator rights!
+13:05:37  [main] 	XAMPP Installation Directory: "c:\abcb002\"
+13:05:37  [main] 	Checking for prerequisites
+13:05:39  [main] 	All prerequisites found
+13:05:39  [main] 	Initializing Modules
+13:05:39  [main] 	The Mercury module is disabled
+13:05:39  [main] 	The Tomcat module is disabled
+13:05:39  [main] 	Starting Check-Timer
+13:05:39  [main] 	Control Panel Ready
+13:05:40  [Apache] 	Attempting to start Apache app...
+13:05:41  [Apache] 	Status change detected: running
+13:05:43  [mysql] 	Attempting to start MySQL app...
+13:05:44  [mysql] 	Status change detected: running
+14:24:47  [mysql] 	Attempting to stop MySQL app...
+14:24:47  [mysql] 	Status change detected: stopped
+14:24:49  [Apache] 	Attempting to stop Apache (PID: 5388)
+14:24:49  [Apache] 	Attempting to stop Apache (PID: 5488)
+14:24:49  [Apache] 	Status change detected: stopped
+14:26:06  [Apache] 	Attempting to start Apache app...
+14:26:06  [Apache] 	Status change detected: running
+14:26:08  [mysql] 	Attempting to start MySQL app...
+14:26:08  [mysql] 	Status change detected: running
+15:20:31  [mysql] 	Attempting to stop MySQL app...
+15:20:31  [mysql] 	Status change detected: stopped
+15:20:34  [Apache] 	Attempting to stop Apache (PID: 6336)
+15:20:34  [Apache] 	Attempting to stop Apache (PID: 4772)
+15:20:34  [Apache] 	Status change detected: stopped
+16:46:52  [Apache] 	Attempting to start Apache app...
+16:46:52  [Apache] 	Status change detected: running
+16:46:54  [mysql] 	Attempting to start MySQL app...
+16:46:54  [mysql] 	Status change detected: running
+17:53:21  [mysql] 	Attempting to stop MySQL app...
+17:53:21  [mysql] 	Status change detected: stopped
+17:53:22  [Apache] 	Attempting to stop Apache (PID: 8888)
+17:53:22  [Apache] 	Attempting to stop Apache (PID: 11412)
+17:53:22  [Apache] 	Status change detected: stopped
+18:25:15  [Apache] 	Status change detected: running
+18:25:22  [mysql] 	Status change detected: running
+18:54:56  [mysql] 	Status change detected: stopped
+18:54:57  [Apache] 	Status change detected: stopped
+20:38:48  [main] 	Deinitializing Modules
+20:38:48  [main] 	Deinitializing Control Panel
+
+18:25:13  [main] 	Initializing Control Panel
+18:25:13  [main] 	Windows Version:  Pro  64-bit
+18:25:13  [main] 	XAMPP Version: 5.6.30
+18:25:13  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+18:25:13  [main] 	You are not running with administrator rights! This will work for
+18:25:13  [main] 	most application stuff but whenever you do something with services
+18:25:13  [main] 	there will be a security dialogue or things will break! So think 
+18:25:13  [main] 	about running this application with administrator rights!
+18:25:13  [main] 	XAMPP Installation Directory: "c:\abcb002\"
+18:25:13  [main] 	Checking for prerequisites
+18:25:13  [main] 	All prerequisites found
+18:25:13  [main] 	Initializing Modules
+18:25:13  [main] 	The Mercury module is disabled
+18:25:13  [main] 	The Tomcat module is disabled
+18:25:13  [main] 	Starting Check-Timer
+18:25:13  [main] 	Control Panel Ready
+18:25:15  [Apache] 	Attempting to start Apache app...
+18:25:15  [Apache] 	Status change detected: running
+18:25:22  [mysql] 	Attempting to start MySQL app...
+18:25:22  [mysql] 	Status change detected: running
+18:54:56  [mysql] 	Attempting to stop MySQL app...
+18:54:56  [mysql] 	Status change detected: stopped
+18:54:57  [Apache] 	Attempting to stop Apache (PID: 8236)
+18:54:57  [Apache] 	Attempting to stop Apache (PID: 11540)
+18:54:57  [Apache] 	Status change detected: stopped
+20:38:48  [main] 	Deinitializing Modules
+20:38:48  [main] 	Deinitializing Control Panel
+
