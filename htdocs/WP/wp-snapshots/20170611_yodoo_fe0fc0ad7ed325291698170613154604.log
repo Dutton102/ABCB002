@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-06-13 15:46:11
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.8
+WORDPRESS:	4.8
+PHP INFO:	5.6.30 | SAPI: apache2handler
+SERVER:		Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 24.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:17 | filtered:0 | create:17 
+FILTERED: [] 
+SQL CREATED: 20170611_yodoo_fe0fc0ad7ed325291698170613154604_database.sql 
+SQL FILE SIZE: 32.03MB (33588561) 
+SQL FILE TIME: 2017-06-13 15:46:13 
+SQL RUNTIME: 2.34 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/ABCB002/htdocs/WP 
+ARCHIVE FILE: 20170611_yodoo_fe0fc0ad7ed325291698170613154604_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	158.11MB 
+STATS:	Dirs 703 | Files 4,453 
+SQL ADDED: 20170611_yodoo_fe0fc0ad7ed325291698170613154604_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5156
+    [filename] => C:\ABCB002\htdocs\WP\wp-snapshots\tmp\20170611_yodoo_fe0fc0ad7ed325291698170613154604_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 94.88MB 
+ARCHIVE RUNTIME: 30.51 sec. 
+MEMORY STACK: 27MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [C:/ABCB002/htdocs/WP/wp-snapshots/tmp/20170611_yodoo_fe0fc0ad7ed325291698170613154604_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 32.03MB 
+Installer File: 428.39KB 
+Archive File: 94.88MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 36.55 sec.
+PEAK PHP MEMORY USED: 29.25MB
+DONE PROCESSING => 20170611_yodoo 2017-06-13 15:46:47
+ 
